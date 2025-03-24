@@ -1,0 +1,4 @@
+[
+	{"doctype":"Division", "division_name":"_Test Division", "company": "_Test Company", "parent_division": "All Divisions"},
+	{"doctype":"Division", "division_name":"_Test Division 1", "company": "_Test Company", "parent_division": "All Divisions"}
+]
